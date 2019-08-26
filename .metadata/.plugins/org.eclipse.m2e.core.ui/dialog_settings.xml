@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/manas/JavaWork/currency-zuul-api-gateway"/>
+			<item value="/home/manas/JavaWork/currency-naming-service"/>
+			<item value="/home/manas/JavaWork/currency-conversion-service"/>
+			<item value="/home/manas/JavaWork/currency-exchange-service"/>
+			<item value="E:\Work\JavaWork\spring-cloud-config-server"/>
+			<item value="E:\Work\JavaWork\limits-service"/>
+			<item value="E:\Work\JavaWork\web-service"/>
+			<item value="E:\Work\JavaWork\tutorial"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

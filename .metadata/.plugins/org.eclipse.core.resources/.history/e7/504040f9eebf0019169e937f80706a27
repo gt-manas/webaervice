@@ -1,0 +1,5 @@
+package com.webservice.currencyexchangeservice.vo;
+
+public class ExchangeValue {
+
+}

@@ -1,0 +1,5 @@
+package com.webservice.currencyconversionservice.vo;
+
+public class CurrencyConvertionBean {
+
+}

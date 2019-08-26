@@ -1,0 +1,13 @@
+package com.webservice.currencynamingservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CurrencyNamingServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CurrencyNamingServiceApplication.class, args);
+	}
+
+}

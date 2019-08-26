@@ -1,0 +1,15 @@
+package com.webservice.currencyexchangeservice.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.webservice.currencyexchangeservice.vo.ExchangeValue;
+
+@RestController
+class CurrencyExchangeController {
+	
+	@getMapping("/currency-exchange/from/{form}/to/{to}")
+	public ExchangeValue retriveExchangeValue() {
+		
+	}
+
+}

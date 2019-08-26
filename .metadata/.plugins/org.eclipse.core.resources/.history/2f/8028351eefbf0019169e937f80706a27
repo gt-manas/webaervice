@@ -1,0 +1,24 @@
+package com.webservice.currencyexchangeservice.vo;
+
+import java.math.BigDecimal;
+
+public class ExchangeValue {
+
+	private long id;
+	private String from;
+	private String to;
+	private BigDecimal conversionMultiple;
+	public ExchangeValue() {
+		super();
+	}
+	public ExchangeValue(long id, String from, String to, BigDecimal conversionMultiple) {
+		super();
+		this.id = id;
+		this.from = from;
+		this.to = to;
+		this.conversionMultiple = conversionMultiple;
+	}
+	
+	
+	
+}
